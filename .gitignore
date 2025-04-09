@@ -175,3 +175,4 @@ cython_debug/
 
 # Received data
 data/
+results/
