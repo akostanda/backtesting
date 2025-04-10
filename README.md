@@ -17,7 +17,11 @@ To run the program after downloading, follow these steps:
 ```bash
   sudo apt install python3
 ```
-2. Install required Python libraries:
+2. Install pip (Python package manager) if it's not already installed:
+```bash
+  sudo apt install python3-pip
+```
+3. Install required Python libraries:
 ```bash
   pip install -r requirements.txt
 ```
